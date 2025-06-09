@@ -123,10 +123,6 @@ fi
 # Prepare background process tracking
 pids=()
 
-# TODO 
-# 1. Beat bash buification by listening to read command
-
-
 # Process each repo URL
 while IFS= read -r repo || [[ -n "$repo" ]]; do
   repo="$(echo "$repo" | xargs)"                 # Trim leading/trailing whitespace
