@@ -1,0 +1,13 @@
+# Paste links to desired reop below
+# Accepts HTTPS and SSH clone links
+# One repo per line
+
+# Examples
+# https://github.com/httpsUser/my_app.git
+# git@github.com:httpsUser/my_app.git
+
+https://github.com/marcosgallo10/SDI_30_Z_Prefix.git
+https://github.com/taylorpatterson-sc/z-prefix-project
+https://github.com/SleepyCoffeeTime/Prefix/
+https://github.com/shaliyur/SDI-30-Z-Prefix-App
+https://github.com/TYWong89/TCG
